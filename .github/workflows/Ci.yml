@@ -23,5 +23,5 @@ jobs:
         pip install -r requirements.txt
     - name: Run linters
       run: |
-        isort . --check-only
+        isort . --check-only --skip env --skip migrations
         flake8 .
