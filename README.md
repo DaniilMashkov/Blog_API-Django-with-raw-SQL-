@@ -31,7 +31,7 @@
    http://localhost:8000
   ```
 
-<details> <summary>Техническое задание (ТЗ)</summary>
+<details> <summary>Техническое задание </summary>
 Задача:
 Создать приложение Django, которое будет выступать в качестве API сервера.
 
